@@ -4,7 +4,7 @@ function getName () {
     console.log('Welcome Minal');
 }
 
-const getCalculation = (a,b){
+const getCalculation = (a,b) => {
     return a + b;
 }
 
